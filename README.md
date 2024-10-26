@@ -12,7 +12,7 @@ Real-Time Data Retrieval: Pulls weather data for major metro cities from OpenWea
 
 📁 Project Structure plaintext Copy code Zeotap-Weather-App/ ├── frontend/ # Frontend (React) ├── backend/ # Backend (Express, MongoDB) │ ├── config/ # Database connect │ ├── models/ # MongoDB Schema │ ├── routes/ # API routes │ ├── utils/ # Utility functions ├── .env # Environment variables └── README.md
 
-🚀 Installation Clone the repository: git clone https://github.com/vaibhav15404/Zeotap-Weather-App.git cd Zeotap-Weather-App
+🚀 Installation Clone the repository: git clone https://github.com/Devansh2995/Zeotap_Weather-Application/tree/main cd Zeotap-Weather-App
 
 Install server dependencies: cd backend npm install
 
