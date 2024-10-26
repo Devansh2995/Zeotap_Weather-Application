@@ -29,4 +29,5 @@ Starting the Client: # In a separate terminal cd frontend npm start
 🔮 Future Enhancements User Authentication: Add user accounts for personalized weather tracking. Historical Data Analysis: Store and analyze historical data for trend forecasting. Mobile App: Extend the project for mobile platforms.
 
 UI Images:
+
 <img width="614" alt="{D07840F4-18C0-4039-A74A-67C4503C827C}" src="https://github.com/user-attachments/assets/94cf2dd2-2b37-4180-be01-3ad5022f174a">
