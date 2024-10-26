@@ -2,7 +2,7 @@
 
 Welcome to Zeotap Weather App, a real-time weather monitoring system designed to track, process, and visualize weather data for metro cities across India. This project utilizes the OpenWeatherMap API to fetch, analyze, and store weather data, including temperature, main weather conditions, and alerts based on user-defined thresholds.
 
-📜 Table of Contents 1). Features 2). Tech Stack 3). Project Structure 4). Installation 5). Environment Setup 6). Usage 7). Future Enhancements
+📜 Table of Contents 1). Features 2). Tech Stack 3). Project Structure 4). Installation 5). Environment Setup 6). Usage 7). Future Enhancements.
 
 ✨ Features
 
